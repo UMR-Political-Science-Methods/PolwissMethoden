@@ -21,3 +21,11 @@ Diesen und anderen Fragen sowie Phänomenen geht die Vorlesung auf den Grund, in
 -   Teilnahme an der Vorlesung, Lektüre der angegebenen Literatur.
 -   Prüfungsleistung: E-Klausur
 -   Folien zu den Vorlesungen sind auf ILIAS erhältlich. Bei Anmeldung auf Marvin werden Sie automatisch dem ILIAS Kurz zugefügt. Sollte es hierbei Probleme geben, wenden Sie sich bitte zeitnah an [Isabelle Borucki](mailto:polwissm@uni-marburg.de), damit Sie Zugriff auf alle Materialien haben und gegebenenfalls auch wichtige Emails erhalten.
+
+## Lernumgebung
+
+Materialien und weiteres werden auf ILIAS bereitsgestellt, da das die gewünschte Arbeitsumgebung der UMR ist.
+
+## Kommunikation
+
+Bitte nutzen Sie bei Fragen, den Chatdienst "Element". Hier steht Ihnen das Team des Fachgebiets bei Ihren Fragen zur Verfügung.
