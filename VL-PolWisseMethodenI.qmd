@@ -1,0 +1,183 @@
+---
+title: \Large Methoden der empirischen Politikwissenschaft I
+author: \large Prof. Dr. Isabelle Borucki
+format: 
+  pdf:
+    fonttheme: Alegreya
+editor: visual
+bibliography: PolWissMethoden.bib
+---
+
+\vspace{-0.8cm}
+
+| Sprechstunde: Montags, 13 Uhr                                |                                                |                                                     |
+|--------------------------------------------------------------|------------------------------------------------|-----------------------------------------------------|
+| **LV-03-XXX-S23-00X**                                        | **SoSe 2023**                                  | **Philipps-Universität Marburg**                    |
+| [Matrix](https://matrix.to/#/@borucki:matrix.uni-marburg.de) | [Mail](mailto:isabelle.borucki@uni-marburg.de) | [Webex](https://uni-marburg.webex.com/meet/borucki) |
+|                                                              | Ketzerbach 63, 00/0030                         | +49 6421 28-24974                                   |
+
+# Überblick
+
+Daten umgeben uns alltäglich und wir produzieren ebenso Daten. Insofern kann folgerichtig behauptet werden, dass Daten das neue Öl sind, der Stoff also, mit dem eine kapitalistische Verwertungsgesellschaft angetrieben werden kann. Doch weshalb sollte man sich mit Daten beschäftigen? Was sind Daten überhaupt und wie kann man mit ihnen umgehen? Zudem bestimmen nicht nur Daten zunehmend die Welt, die uns umgibt, sondern auch die zunehmende und damit verbundene Konnektivität unterschiedlicher Entitäten, was nicht zuletzt auch aus der digitalen Transformation von Gesellschaft und Politik resultiert.
+
+Diesen und anderen Fragen sowie Phänomenen geht die Vorlesung auf den Grund, indem sie in die Grundlagen, Techniken und Methoden der empirischen Politikwissenschaft einführt. Gemeinsam mit den Proseminaren "Einführung in die Methoden der Politikwissenschaft" bildet sie das einführende Methodenmodul im Bachelor Politikwissenschaft.
+
+## Leitungsanforderungen
+
+-   Teilnahme an der Vorlesung, Lektüre der angegebenen Literatur.
+-   Prüfungsleistung: E-Klausur
+-   Folien zu den Vorlesungen sind auf ILIAS erhältlich. Bei Anmeldung auf Marvin werden Sie automatisch dem ILIAS Kurz zugefügt. Sollte es hierbei Probleme geben, wenden Sie sich bitte zeitnah an [Isabelle Borucki](mailto:polwissm@uni-marburg.de), damit Sie Zugriff auf alle Materialien haben und gegebenenfalls auch wichtige Emails erhalten.
+
+## Ablauf
+
+| Nr. | Datum      | Thema                                                                                            |
+|-----|------------|--------------------------------------------------------------------------------------------------|
+| 1   | 17.04.2023 | Einführung: Wozu empirische Politikwissenschaft und Sozialforschung?                             |
+| 2   | 24.04.2023 | Grundbegriffe der empirischen Politikwissenschaft                                                |
+| 3   | 08.05.2023 | Erkenntnis- und Wissenschaftstheorie                                                             |
+| 4   | 15.05.2023 | Logik und Heuristik: Theorien und Hypothesen                                                     |
+| 5   | 22.05.2020 | Charakteristika quantitativer und qualitativer Forschung                                         |
+| 6   | 29.05.2023 | *Readingweek*: *R-Lab in R 006, Ketzerbach 63 bzw. vertiefende Lektüre*                          |
+| 7   | 05.06.2023 | Forschungsethik und Gütekriterien                                                                |
+| 8   | 12.06.2023 | Forschungsprozess: Forschungsfrage und Konzeptspezifikation                                      |
+| 9   | 19.06.2023 | Forschungsprozess: Untersuchungsdesigns                                                          |
+| 10  | 26.06.2023 | Forschungsprozess: Auswahlverfahren und Stichproben                                              |
+| 11  | 03.07.2023 | Forschungsprozess: Datenerhebung - Umfrage, Fragebögen, Beobachtung, Inhaltsanalyse, Experimente |
+| 12  | 10.07.2023 | Digitale Methoden als Querschnittsfeld                                                           |
+| 13  | 17.07.2023 | E-Klausur                                                                                        |
+
+Nachschreibeklausur: Montag, 7.8.2023, vorausgesetzt, die Möglichkeit der E-Klausuren besteht auch zum Nachschreibetermin.
+
+## Detaillierter Ablauf mit Literatur
+
+#### Anmerkung zur Literatur
+
+| Kennzeichnung | Verbindlichkeit                                                                                            |
+|---------------|------------------------------------------------------------------------------------------------------------|
+| \*\*\*        | Pflichtliteratur                                                                                           |
+| \*\*(\*)      | Auswahl: lesen Sie mindestens eines der so markierten Kapitel                                              |
+| \*\*          | Empfohlene Literatur                                                                                       |
+| \*            | weiterführende Literatur, oft zu Forschungsbeispielen <br> aus der Vorlesung oder fortgeschrittenen Themen |
+| \~            | Empfohlene englischsprachige Literatur                                                                     |
+
+#### 1 Einführung: Wozu empirische Politikwissenschaft und Sozialforschung?
+
+Ziel der Sitzung ist eine grundlegende Einführung in die Grundlagen und Erkenntnisinteressen der empirischen Politikwissenschaft und Sozialforschung. Hierbei wird auch darauf eingegangen, was spezifische und alltägliche Anwendungsfelder empirischer Forschung sind und wo ihre Grenzen liegen.
+
+*Literatur*:
+
+\*\*\* [@hader_empirische_2019]: Kapitel 2
+
+\*\*(\*) [@schnell_methoden_2018]: Kapitel 1 + 2
+
+\~ [@field_adventure_2022] Kapitel 1
+
+#### 2 Grundbegriffe der empirischen Politikwissenschaft
+
+Diese Vorlesung befasst sich mit zentralen Begriffen wie: Theorie, Konzept, Modell, Ansatz, Variable, Ansatz, Kausalität und Korrelation und vielen anderen Begrifflichkeiten, die am Anfang des Studiums fremd erscheinen.
+
+*Literatur*:
+
+\*\*\* [@hader_empirische_2019]: Kapitel 2.2
+
+\*\*(\*) [@diaz-bone_statistik_2013]: Kapitel 2
+
+\~ [@field_adventure_2022] Kapitel 2
+
+#### 3 Erkenntnis- und Wissenschaftstheorie
+
+Hinter den methodischen Zugängen sind Theorien davon zu verorten, wie wir uns die Welt vorstellen (können oder nicht). Die Frage nach der Art und Weise von Erkenntnis und wie wir zu ihr gelangen können stelle Bezüge zu philosophischen und soziologischen Basierungen von Forschung her und bettet diese in den Kontext der Vorlesung ein.
+
+*Literatur*:
+
+\*\*\* [@egner_methoden_2019]: Kapitel 2
+
+\*\*(\*) [@hader_empirische_2019]: Kapitel 3
+
+\* Schurz einleitende Kapitel?
+
+#### 4 Logik und Heuristik: Theorien und Hypothesen
+
+Aufbauend auf Sitzung 3 werden grundlegende logische Schlußformeln erläutert und angwewandt, um daran aufzeigen zu können, welche Leistungen Theorien und daran angeschlossene Hypothesen leisten müssen.
+
+*Literatur*:
+
+\*\*(\*)
+
+\* Formale Logik für Philosophen
+
+\~ Copie Cohen Introduction to Logic
+
+#### 5 Digitale Methoden als Querschnittsfeld
+
+Die Digitalisierung der Gesellschaft und Politik betrifft auch den Bereich der Methoden, und zwar insofern als dass mit verschiedenen digitalen Zugriffen unterschiedliche und mehr Daten verarbeitet werden können bzw. die Digitalisierung der Wissenschaft hier Querverbindungen zwischen Analysewerkzeugen eröffnet. Die Vorlesung führt an dieser Stelle in Grundprinzipien digitaler Methoden ein.
+
+*Literatur*:
+
+\*\*\* Borucki 2023 in EasySocialSciences
+
+\*\*(\*) [@rogers2015]
+
+\*\* [@blatte_computational_2018]
+
+\* [@salganik2019]
+
+#### 6 *Readingweek*
+
+Die Readingweek dient der Vertiefung von bereits Erlerntem oder der Ausweitung von Wissen. Am Fachgebiet Methoden bieten wir hierzu zur Erlangung und Vertiefung von Statistik- und Programmierkenntnissen das R-Lab an. <!----Hierzu folgen noch die Links, sobald der semesterunabhängige Kurs in ILIAS befüllt ist ---->
+
+-   *R-Lab in R 006, Ketzerbach 63*
+
+Zudem können sich Studierende in über die zentralen Themen hinausgehende Literatur einarbeiten oder sich ein einzelnes Buch vornehmen und dieses durcharbeiten. Eine Liste mit Anregungen findet sich hier:
+
+-   Vertiefende Lektüre: [@mau_metrische_2017; @harford_data_2022; @criado-perez_unsichtbare_2020]
+
+#### 7 Charakteristika quantitativer und qualitativer Forschung
+
+Qualitative und quantitative Forschung unterscheiden sich grundlegend in ihren Herangehensweisen, Konzepten und Theorien, die die jeweilige Forschung antreiben. Die Vorlesung thematisiert diese Kennzeichen und Charakteristika grundlegend und zeigt wesentliche Unterscheidungsmerkmale auf.
+
+*Literatur*:
+
+Egner
+
+Häder
+
+Lamnek
+
+#### 8 Forschungsethik und Gütekriterien
+
+In einer von datengetriebenen Welt und der schieren unscheinbaren als Zugänglichkeit und Omnipräsenz von Daten sind Leitlinien im Hinblick auf die Frage nach der Güte und der Qualität von Daten wie auch der dadurch gespeisten Forschung von zentraler Bedeutung. Insofern widmet sich die Einheit zentralen, ethischen Grundsätzen von Forschung, etwa der wissenschaftlichen Redlichkeit und Nachvollziehbarkeit sowie grundlegenden Gütekriterien, an denen sich sowohl qualitative als auch quantitative Forschung orientiert.
+
+*Literatur*:
+
+Lamnek
+
+#### 9 Forschungsprozess: Forschungsfrage und Konzeptspezifikation
+
+Diese Sitzung führt grundlegend in den Ablauf eines Forschungsprozesses ein. Mit der Formulierung von Forschungsfragen und der damit zusammenhängenden Konzeptspezifikation wird die Grundlage für die folgenden Sitzungen gelegt und ebenso ein Ausblick auf Varianten aus dem Bereich der qualitativen Forschung gegeben.
+
+*Literatur*:
+
+\*\*\* [@bernauer2018]: Kapitel 2
+
+#### 10 Forschungsprozess: Untersuchungsdesigns
+
+Die unterschiedliche Ausrichtung von Untersuchungen und die damit zusammenhängenden Designs, auch aus der komparativ Stick, der vergleichenden Politik Wissenschaft also, sind Thema dieser Vorlesung. Von zentralem Interesse ist an dieser Stelle wie ein ausgewogenes Untersuchungsdesign formuliert und letztlich durchgeführt werden kann um eine optimale Datenerhebung und Auswertung zu ermöglichen.
+
+*Literatur*:
+
+#### 11 Forschungsprozess: Auswahlverfahren und Stichproben
+
+Welche Formen der Auswahl einer zu untersuchenden Einheit zur Verfügung stehen, wie diese miteinander abgestimmt werden können, gerade in einem kombinierten Forschungsansatz, und wie letztlich auch kleinere Untersuchungseinheiten aus größeren ausgewählt werden (so genannte Stichproben), ist zentrales Erkenntnisinteresse dieser Vorlesung.
+
+*Literatur*:
+
+#### 12 Forschungsprozess: Datenerhebung - Umfage, Fragebögen, Beobachtung, Inhaltsanalyse, Experimente, soziale Netzwerkanalyse
+
+Datenerhebung und Analyse hängen eng miteinander zusammen und werden in dieser Vorlesung jedoch nur auf die Datenerhebung fokussiert, die Analysestrategien werden in den pro Seminaren beziehungsweise im zweiten Methodenteil im Aufbau eingeführt. Insofern ist Ziel dieser Vorlesung grundlegende Unterschiede der Datenerhebung in der Politik wissenschaftlichen, empirischen Forschung deutlich zu machen.
+
+*Literatur*:
+
+#### 13 E-Klausur
+
+## Literatur
