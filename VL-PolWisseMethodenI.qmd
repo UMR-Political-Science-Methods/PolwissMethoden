@@ -11,7 +11,7 @@ bibliography: PolWissMethoden.bib
 \vspace{-0.8cm}
 
 | Sprechstunde: Montags, 13 Uhr                                |                                                |                                                     |
-|--------------------------------------------------------------|------------------------------------------------|-----------------------------------------------------|
+|---------------------------|---------------------|------------------------|
 | **LV-03-XXX-S23-00X**                                        | **SoSe 2023**                                  | **Philipps-Universität Marburg**                    |
 | [Matrix](https://matrix.to/#/@borucki:matrix.uni-marburg.de) | [Mail](mailto:isabelle.borucki@uni-marburg.de) | [Webex](https://uni-marburg.webex.com/meet/borucki) |
 |                                                              | Ketzerbach 63, 00/0030                         | +49 6421 28-24974                                   |
@@ -30,30 +30,30 @@ Diesen und anderen Fragen sowie Phänomenen geht die Vorlesung auf den Grund, in
 
 ## Ablauf
 
-| Nr. | Datum      | Thema                                                                                            |
-|-----|------------|--------------------------------------------------------------------------------------------------|
-| 1   | 17.04.2023 | Einführung: Wozu empirische Politikwissenschaft und Sozialforschung?                             |
-| 2   | 24.04.2023 | Grundbegriffe der empirischen Politikwissenschaft                                                |
-| 3   | 08.05.2023 | Erkenntnis- und Wissenschaftstheorie                                                             |
-| 4   | 15.05.2023 | Logik und Heuristik: Theorien und Hypothesen                                                     |
-| 5   | 22.05.2020 | Charakteristika quantitativer und qualitativer Forschung                                         |
-| 6   | 29.05.2023 | *Readingweek*: *R-Lab in R 006, Ketzerbach 63 bzw. vertiefende Lektüre*                          |
-| 7   | 05.06.2023 | Forschungsethik und Gütekriterien                                                                |
-| 8   | 12.06.2023 | Forschungsprozess: Forschungsfrage und Konzeptspezifikation                                      |
-| 9   | 19.06.2023 | Forschungsprozess: Untersuchungsdesigns                                                          |
-| 10  | 26.06.2023 | Forschungsprozess: Auswahlverfahren und Stichproben                                              |
-| 11  | 03.07.2023 | Forschungsprozess: Datenerhebung - Umfrage, Fragebögen, Beobachtung, Inhaltsanalyse, Experimente |
-| 12  | 10.07.2023 | Digitale Methoden als Querschnittsfeld                                                           |
-| 13  | 17.07.2023 | E-Klausur                                                                                        |
-
-Nachschreibeklausur: Montag, 7.8.2023, vorausgesetzt, die Möglichkeit der E-Klausuren besteht auch zum Nachschreibetermin.
+| Nr.       | Datum      | Thema                                                                                            |
+|---------|---------------|-----------------------------------------------------|
+| 1         | 17.04.2023 | Einführung: Wozu empirische Politikwissenschaft und Sozialforschung?                             |
+| 2         | 24.04.2023 | Grundbegriffe der empirischen Politikwissenschaft                                                |
+| 3         | 08.05.2023 | Erkenntnis- und Wissenschaftstheorie                                                             |
+| 4         | 15.05.2023 | Logik und Heuristik                                                                              |
+| 5         | 22.05.2020 | Theorien und Hypothesen                                                                          |
+| 6         | 29.05.2023 | *Readingweek*: *R-Lab in R 006, Ketzerbach 63 bzw. vertiefende Lektüre*                          |
+| 7         | 05.06.2023 | Charakteristika quantitativer und qualitativer Forschung                                         |
+| 8         | 12.06.2023 | Forschungsethik und Gütekriterien                                                                |
+| 9         | 19.06.2023 | Forschungsprozess: Forschungsfrage und Konzeptspezifikation                                      |
+| 10        | 26.06.2023 | Forschungsprozess: Untersuchungsdesigns                                                          |
+| 11        | 03.07.2023 | Forschungsprozess: Auswahlverfahren und Stichproben                                              |
+| 12        | 10.07.2023 | Forschungsprozess: Datenerhebung - Umfrage, Fragebögen, Beobachtung, Inhaltsanalyse, Experimente |
+| 13        | 17.07.2023 | Digitale Methoden als Querschnittsfeld                                                           |
+| Versuch 1 | 24.07.2023 | E-Klausur; 12.30-16 Uhr (zwei Durchgänge), **Campus Lahnberge, PC-Saal 03D25**                   |
+| Versuch 2 | 14.08.2023 | E-Klausur; 12.30-16 Uhr (zwei Durchgänge), **Campus Lahnberge, PC-Saal 03D25**                   |
 
 ## Detaillierter Ablauf mit Literatur
 
 #### Anmerkung zur Literatur
 
 | Kennzeichnung | Verbindlichkeit                                                                                            |
-|---------------|------------------------------------------------------------------------------------------------------------|
+|-------------------|-----------------------------------------------------|
 | \*\*\*        | Pflichtliteratur                                                                                           |
 | \*\*(\*)      | Auswahl: lesen Sie mindestens eines der so markierten Kapitel                                              |
 | \*\*          | Empfohlene Literatur                                                                                       |
@@ -96,7 +96,7 @@ Hinter den methodischen Zugängen sind Theorien davon zu verorten, wie wir uns d
 
 \* Schurz einleitende Kapitel?
 
-#### 4 Logik und Heuristik: Theorien und Hypothesen
+#### 4 Logik und Heuristik
 
 Aufbauend auf Sitzung 3 werden grundlegende logische Schlußformeln erläutert und angwewandt, um daran aufzeigen zu können, welche Leistungen Theorien und daran angeschlossene Hypothesen leisten müssen.
 
@@ -108,19 +108,17 @@ Aufbauend auf Sitzung 3 werden grundlegende logische Schlußformeln erläutert u
 
 \~ Copie Cohen Introduction to Logic
 
-#### 5 Digitale Methoden als Querschnittsfeld
+#### 5 Theorien und Hypothesen
 
-Die Digitalisierung der Gesellschaft und Politik betrifft auch den Bereich der Methoden, und zwar insofern als dass mit verschiedenen digitalen Zugriffen unterschiedliche und mehr Daten verarbeitet werden können bzw. die Digitalisierung der Wissenschaft hier Querverbindungen zwischen Analysewerkzeugen eröffnet. Die Vorlesung führt an dieser Stelle in Grundprinzipien digitaler Methoden ein.
+Was genau sind Theorien? Was sind Modelle, Ansätze und daraus abgeleitete Hypothesen? Diesem Komplex widmet sich die 5. Sitzung, die grundlegend in die aus der Wissenschaftstheorie und Logik stammende Denkweise in Theorien, Ansätzen, Modellen und Hypothesen einführt. Hier werden auch grundlgende Hypothesenformen erläutert, die sich aus den genannten Vorbedingungen ableiten.
 
-*Literatur*:
+*Literatur:*
 
-\*\*\* Borucki 2023 in EasySocialSciences
+\*\*\*
 
-\*\*(\*) [@rogers2015]
+\*\*(\*)
 
-\*\* [@blatte_computational_2018]
-
-\* [@salganik2019]
+\*
 
 #### 6 *Readingweek*
 
@@ -178,6 +176,20 @@ Datenerhebung und Analyse hängen eng miteinander zusammen und werden in dieser 
 
 *Literatur*:
 
-#### 13 E-Klausur
+#### 13 Digitale Methoden als Querschnittsfeld
+
+Die Digitalisierung der Gesellschaft und Politik betrifft auch den Bereich der Methoden, und zwar insofern als dass mit verschiedenen digitalen Zugriffen unterschiedliche und mehr Daten verarbeitet werden können bzw. die Digitalisierung der Wissenschaft hier Querverbindungen zwischen Analysewerkzeugen eröffnet. Die Vorlesung führt an dieser Stelle in Grundprinzipien digitaler Methoden ein.
+
+*Literatur*:
+
+\*\*\* Borucki 2023 in EasySocialSciences
+
+\*\*(\*) [@rogers2015]
+
+\*\* [@blatte_computational_2018]
+
+\* [@salganik2019]
+
+#### 14 E-Klausur
 
 ## Literatur
