@@ -4,11 +4,7 @@
 
 ### Philipps Universität Marburg - BA Politikwissenschaft 
 
-Syllabus and material for the introductory lectures in political and social science methods.
-
-This is the starting page, where all the materials and [syllabus](VL-PolWisseMethodenI.pdf) is linked.
-
-The syllabus is continuously updated and contains literature and further readings and links for studying methods and surrounding topics. These are, for instance, case studies showcasing the method discussed recently or problems with some methods at hand.
+Auf diesen Seiten finden Sie den [Syllabus](VL-PolWisseMethodenI.pdf) und Material zur Einführungsvorlesung in die politikwissenschaftlichen Methoden I. Die Materialien und der Syllabus werden kontinuierlich aktualisiert. Dort finden Sie Literatur und weiterführende Hinweise, wie Links, für Ihre Studien sowie umgebende Themen. Beispielsweise hinterlege ich Fallstudien und andere Daten, um das in der Vorlesung besprochene zu veranschaulichen und zu vertiefen.
 
 # Überblick
 
@@ -28,4 +24,4 @@ Materialien und weiteres werden auf ILIAS bereitsgestellt, da das die gewünscht
 
 ## Kommunikation
 
-Bitte nutzen Sie bei Fragen, den Chatdienst "Element". Hier steht Ihnen das Team des Fachgebiets bei Ihren Fragen zur Verfügung.
+Bitte nutzen Sie bei Fragen, den Chatdienst "[Element](https://matrix.uni-marburg.de/#/room/#polwissmethoden:matrix.uni-marburg.de)". Hier steht Ihnen das Team des Fachgebiets bei Ihren Fragen zur Verfügung.
