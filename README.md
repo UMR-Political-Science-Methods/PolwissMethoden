@@ -24,4 +24,4 @@ Materialien und weiteres werden auf ILIAS bereitsgestellt, da das die gewünscht
 
 ## Kommunikation
 
-Bitte nutzen Sie bei Fragen, den Chatdienst "[Element](https://matrix.uni-marburg.de/#/room/#polwissmethoden:matrix.uni-marburg.de)". Hier steht Ihnen das Team des Fachgebiets bei Ihren Fragen zur Verfügung.
+Bitte nutzen Sie bei Fragen, den Chatdienst "[Element](https://matrix.uni-marburg.de/#/room/#polwissmethoden:matrix.uni-marburg.de){style="_blank"}". Hier steht Ihnen das Team des Fachgebiets bei Ihren Fragen zur Verfügung.
