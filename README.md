@@ -2,7 +2,7 @@
 
 ## Isabelle Borucki
 
-### Philipps Universität Marburg - BA Politikwissenschaft 
+### Philipps Universität Marburg - BA Politikwissenschaft
 
 Auf diesen Seiten finden Sie den [Syllabus](VL-PolWisseMethodenI.pdf) und Material zur Einführungsvorlesung in die politikwissenschaftlichen Methoden I. Die Materialien und der Syllabus werden kontinuierlich aktualisiert. Dort finden Sie Literatur und weiterführende Hinweise, wie Links, für Ihre Studien sowie umgebende Themen. Beispielsweise hinterlege ich Fallstudien und andere Daten, um das in der Vorlesung besprochene zu veranschaulichen und zu vertiefen.
 
