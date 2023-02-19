@@ -4,7 +4,7 @@
 
 ### Philipps Universität Marburg - BA Politikwissenschaft
 
-Auf diesen Seiten finden Sie den [Syllabus](VL-PolWisseMethodenI.pdf) und Material zur Einführungsvorlesung in die politikwissenschaftlichen Methoden I. Die Materialien und der Syllabus werden kontinuierlich aktualisiert. Dort finden Sie Literatur und weiterführende Hinweise, wie Links, für Ihre Studien sowie umgebende Themen. Beispielsweise hinterlege ich Fallstudien und andere Daten, um das in der Vorlesung besprochene zu veranschaulichen und zu vertiefen.
+Auf diesen Seiten finden Sie den [Syllabus](VL-PolWisseMethodenI.pdf) und weiterführendes Material zur Einführungsvorlesung in die politikwissenschaftlichen Methoden I. Die Materialien und der Syllabus werden kontinuierlich aktualisiert. Dort finden Sie ergänzende Literatur und Hinweise, wie Links, für Ihre Studien sowie umgebende Themen. Beispielsweise hinterlege ich Fallstudien und andere Daten, um das in der Vorlesung Besprochene zu veranschaulichen und zu vertiefen.
 
 # Überblick
 
@@ -16,7 +16,7 @@ Diesen und anderen Fragen sowie Phänomenen geht die Vorlesung auf den Grund, in
 
 -   Teilnahme an der Vorlesung, Lektüre der angegebenen Literatur.
 -   Prüfungsleistung: E-Klausur
--   Folien zu den Vorlesungen sind auf ILIAS erhältlich. Bei Anmeldung auf Marvin werden Sie automatisch dem ILIAS Kurz zugefügt. Sollte es hierbei Probleme geben, wenden Sie sich bitte zeitnah an [Isabelle Borucki](mailto:polwissm@uni-marburg.de), damit Sie Zugriff auf alle Materialien haben und gegebenenfalls auch wichtige Emails erhalten.
+-   Folien zu den Vorlesungen sind auf ILIAS erhältlich. Bei Anmeldung auf Marvin werden Sie automatisch dem ILIAS Kurs zugefügt. Sollte es hierbei Probleme geben, wenden Sie sich bitte zeitnah an [Isabelle Borucki](mailto:polwissm@uni-marburg.de), damit Sie Zugriff auf alle Materialien haben und gegebenenfalls auch wichtige Emails erhalten.
 
 ## Lernumgebung
 
