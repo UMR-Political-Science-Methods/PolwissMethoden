@@ -1,6 +1,6 @@
 # Veranstaltungen im Sommersemester 2023
 
-# Philipps Universität Marburg - Politikwissenschaft
+## Philipps Universität Marburg - Politikwissenschaft
 
 ## Prof. Dr. Isabelle Borucki
 
@@ -18,7 +18,7 @@ Diesen und anderen Fragen sowie Phänomenen geht die Vorlesung auf den Grund, in
 
 -   Teilnahme an der Vorlesung, Lektüre der angegebenen Literatur.
 -   Prüfungsleistung: E-Klausur
--   Folien zu den Vorlesungen sind auf ILIAS erhältlich. Bei Anmeldung auf Marvin werden Sie automatisch dem ILIAS Kurs zugefügt. Sollte es hierbei Probleme geben, wenden Sie sich bitte zeitnah an [Isabelle Boruckis Hilfskraft](mailto:polwissm@uni-marburg.de), damit Sie Zugriff auf alle Materialien haben und gegebenenfalls auch wichtige Emails erhalten.
+-   Folien zu den Vorlesungen sind auf ILIAS erhältlich. Bei Anmeldung auf Marvin werden Sie automatisch dem ILIAS Kurs zugefügt. Sollte es hierbei Probleme geben, wenden Sie sich bitte zeitnah an [Hilfskraft PolwissMethoden](mailto:polwissm@uni-marburg.de), damit Sie Zugriff auf alle Materialien haben und gegebenenfalls auch wichtige Emails erhalten.
 
 ---
 
