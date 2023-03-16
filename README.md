@@ -18,7 +18,9 @@ Diesen und anderen Fragen sowie Phänomenen geht die Vorlesung auf den Grund, in
 
 -   Teilnahme an der Vorlesung, Lektüre der angegebenen Literatur.
 -   Prüfungsleistung: E-Klausur
--   Folien zu den Vorlesungen sind auf ILIAS erhältlich. Bei Anmeldung auf Marvin werden Sie automatisch dem ILIAS Kurs zugefügt. Sollte es hierbei Probleme geben, wenden Sie sich bitte zeitnah an [Isabelle Borucki](mailto:polwissm@uni-marburg.de), damit Sie Zugriff auf alle Materialien haben und gegebenenfalls auch wichtige Emails erhalten.
+-   Folien zu den Vorlesungen sind auf ILIAS erhältlich. Bei Anmeldung auf Marvin werden Sie automatisch dem ILIAS Kurs zugefügt. Sollte es hierbei Probleme geben, wenden Sie sich bitte zeitnah an [Isabelle Boruckis Hilfskraft](mailto:polwissm@uni-marburg.de), damit Sie Zugriff auf alle Materialien haben und gegebenenfalls auch wichtige Emails erhalten.
+
+---
 
 ### MA-Seminar: Multilevel-modelling of political identity concepts with standard data in RStudio/Posit (lme4 and others)
 
@@ -32,6 +34,8 @@ The syllabus (in preparation) entails all sessions dedicated to the question how
 -   active coding practice in R
 -   Written report (Lab report) or classic seminar paper as requirements for getting a qualified grade.
 
+---
+
 ### Aufbau-BA-Seminar: Social Media-Daten und Digitale Verhaltensdaten als neue Ressource der empirischen Politikwissenschaft?
 
 Soziale Medien bestimmen nach und nach die politikiwissenschaftliche Beschäftigung mit der Online-Welt. Dies ist besonders in Wahlkämpfen von zentraler Bedeutung, wollen Politiker:innen auch in diesen Sphären auftreten und wahrgenommen werden. Deshalb hat das Seminar zum Ziel in einer anwendungsorientierten Perspektive, den hessischen Landtagswahlkampf als Fall zu beobachten und das Auftreten und Verhalten der hessischen Politiker:innen in dieser Wahlkampfsituation zu analysieren.
@@ -44,6 +48,8 @@ Hierzu wird gemeinsam im Seminar ein Echtzeitmonitoring ausgewählter Accounts u
 -   Lektüre der Basis- und Auswahlliteratur
 -   Für die PL: Erstellen einer Hausarbeit/eines Lab-Reports
 
+---
+
 ### Aufbau-BA-Seminar: Digitale Parteiarbeit: Einblicke in eine aktuelle Panelstudie
 
 Arbeit an T0-Daten, eventuell knobeln an Rätseln, Verknüpfung mit T1, Zeitreihenanalysen, Panelanalysen, nach klassischen deskriptiven und inferenzstatistischen Verfahren. Zunächst aber Übungen in: Messkonstrukte aufstellen, Repetitorium Statistik, Kreuztabellierungen, Korrelationen.
@@ -53,6 +59,8 @@ Arbeit an T0-Daten, eventuell knobeln an Rätseln, Verknüpfung mit T1, Zeitreih
 -   regelmäßige Teilnahme
 -   Lektüre der Basis- und Auswahlliteratur
 -   Für die PL: Erstellen einer Hausarbeit/eines Lab-Reports
+
+---
 
 ## Hinweise für alle Veranstaltungen
 
