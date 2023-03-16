@@ -1,6 +1,6 @@
 # Veranstaltungen im Sommersemester 2023
 
-# Philipps Universität Marburg - BA Politikwissenschaft
+# Philipps Universität Marburg - Politikwissenschaft
 
 ## Prof. Dr. Isabelle Borucki
 
