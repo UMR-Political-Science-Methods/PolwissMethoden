@@ -48,12 +48,8 @@ Hierzu wird gemeinsam im Seminar ein Echtzeitmonitoring ausgewählter Accounts u
 -   Lektüre der Basis- und Auswahlliteratur
 -   Für die PL: Erstellen einer Hausarbeit/eines Lab-Reports
 
-<<<<<<< HEAD
-
 ------------------------------------------------------------------------
-=======
----
->>>>>>> f4701b50058ba985d300e56591cbf6b89d3f3ea0
+
 
 ### Aufbau-BA-Seminar: Digitale Parteiarbeit: Einblicke in eine aktuelle Panelstudie
 
@@ -65,14 +61,10 @@ Arbeit an T0-Daten, eventuell knobeln an Rätseln, Verknüpfung mit T1, Zeitreih
 -   Lektüre der Basis- und Auswahlliteratur
 -   Für die PL: Erstellen einer Hausarbeit/eines Lab-Reports
 
-<<<<<<< HEAD
 #### Weitere Informationen: 
 [Syllabus](~/Documents/___Uni_Marburg/Projects_Active/SoSe2023/DigitaleParteiarbeit)
 
 ------------------------------------------------------------------------
-=======
----
->>>>>>> f4701b50058ba985d300e56591cbf6b89d3f3ea0
 
 ## Hinweise für alle Veranstaltungen
 
